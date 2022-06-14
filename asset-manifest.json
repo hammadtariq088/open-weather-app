@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/open-weather-app/static/css/main.bf719fde.css",
+    "main.js": "/open-weather-app/static/js/main.48ca970b.js",
+    "index.html": "/open-weather-app/index.html",
+    "main.bf719fde.css.map": "/open-weather-app/static/css/main.bf719fde.css.map",
+    "main.48ca970b.js.map": "/open-weather-app/static/js/main.48ca970b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf719fde.css",
+    "static/js/main.48ca970b.js"
+  ]
+}
